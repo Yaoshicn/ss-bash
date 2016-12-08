@@ -3,10 +3,10 @@ ss-bash
 
 Shadowsocks traffic management script
 
-* Only supports shadowsocks-python
-* Only supports IPv4 traffic statistics
+* Supports shadowsocks-python only
+* Supports IPv4 traffic statistics only
 
 [User Manual(中文)][User Manual]
 
 
-[User Manual]:    https://github.com/hellofwy/ss-bash/wiki
+[User Manual]:https://github.com/hellofwy/ss-bash/wiki
