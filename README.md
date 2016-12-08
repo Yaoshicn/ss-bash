@@ -3,8 +3,8 @@ ss-bash
 
 Shadowsocks traffic management script
 
-* Supports shadowsocks-python only
-* Supports IPv4 traffic statistics only
+* Support shadowsocks-python only
+* Support IPv4 traffic statistics only
 
 [User Manual(中文)][User Manual]
 
